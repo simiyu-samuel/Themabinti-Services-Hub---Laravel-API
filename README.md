@@ -1,7 +1,5 @@
 # **Themabinti Services Hub - Laravel API**
 
-![Themabinti Services Hub Logo/Banner](https://via.placeholder.com/1200x300/8A2BE2/FFFFFF?text=Themabinti+Services+Hub+-+Laravel+API)
-
 ## **Project Overview**
 
 The Themabinti Services Hub Laravel API is the robust, scalable backend powering an inclusive beauty, health, and lifestyle services marketplace for Kenya. It facilitates connections between service providers (sellers) and customers, offering tiered seller packages, secure M-Pesa payment integration, comprehensive service management, and an extensive admin management system.
@@ -68,8 +66,8 @@ Follow these steps to get the Themabinti Services Hub Laravel API up and running
 ### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/themabinti-laravel-api.git # Replace with actual repo URL
-cd themabinti-laravel-api
+git clone https://github.com/simiyu-samuel/Themabinti-Services-Hub---Laravel-API.git
+cd Themabinti-Services-Hub---Laravel-API
 ```
 
 ### **2. Install PHP Dependencies**
