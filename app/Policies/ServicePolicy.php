@@ -5,7 +5,7 @@ namespace App\Policies;
 use App\Models\User;
 use App\Models\Service;
 use Illuminate\Auth\Access\Response;
-use Illuminate\Http\Request; // <<<--- 1. IMPORT Request
+use Illuminate\Http\Request;
 
 class ServicePolicy
 {
