@@ -6,6 +6,8 @@ The Themabinti Services Hub Laravel API is the robust, scalable backend powering
 
 This backend is designed as a RESTful API, providing endpoints for authentication, user and service management, appointments, payments, admin oversight, and more, all while adhering to modern Laravel best practices.
 
+**Fully commented code with clear explanation of why and what. With steps on crucial logic and key points**
+
 ## **Features**
 
 *   **User Management:**
